@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  
+}
+
+.App-header {
+  color: antiquewhite;
+  width:fit-content;
+  background-color: burlywood;
+  border-radius: 15px;
+  padding:5px;
+  margin: auto;
+  margin-top:2vh;
+}
